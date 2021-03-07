@@ -1,21 +1,56 @@
 
 
-<p align="center"> 
-    <img align="center" src='logo_rn.png' height=130>
-    <h1 align="center">Index of React Native Projects</h1>
-</p> 
-<br/>
-  
-  |Proje Name     | Repo link                                                      |  <p align="center"> Overview</p>    |
-  |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
-      |Google Maps App<br/>(Coming soon...)| [Repository](https://github.com/SemihDurmus/RNSD_05_Google_Maps)||
-  |Live Chat App <br/>(with Firebase)| [Repository](https://github.com/SemihDurmus/RN_06_Live_Chat_Firebase)|<img src="img/login.gif" height="400"><img src="img/signup.gif" height="400"><img src="img/chat.gif" height="400">|
-  |Job Search App| [Repository](https://github.com/SemihDurmus/RN_04_Job_Search_App)|<img src="img/jobsearch.gif" height="400">|
-  |Restaurant App| [Repository](https://github.com/SemihDurmus/SDRN_03_Restaurant_App.git)|<img src="img/rest1.gif" height="400">|
-  |Double Click to Like| [Repository](https://github.com/SemihDurmus/SDRN_02_Double_Click_to_Like.git)|<img src="img/doubleClick.gif" height="400">|
-  |ToDo App | [Repository](https://github.com/SemihDurmus/RN_03_ToDo_App.git)|<img src="img/todo.gif" height="400">|
-  |Product Filtering | [Repository](https://github.com/SemihDurmus/SDRN_01_Product_Filtering.git)|<img src="img/Clarushop1.gif" height="400">|
-  
+<h1 align="center">Index of React Projects</h1>
+</p>
+<table>
+    <thead>
+        <tr>
+            <td>Project Name</td>
+            <td>Repo Link</td>
+            <td>App Link</td>
+            <td>Overview</td>
+        </tr>
+    </thead>
+    <tbody> <tr>
+            <td>MERN (MONGODB-EXPRESS.JS-REACT-NODE.JS) Shop App</td>
+            <td><a href="https://github.com/Meltem-Karaagac/MERN_Shop_Project" target="_blank"> Repo details</a></td>
+            <td><a href=http://3.140.92.119/ target="_blank">App details (AWS deployed) </a></td>
+            <td><img src="./animation_500_kd7ngokt.gif" alt="react" height="130"></td> 
+        </tr>
+        <tr>
+            <td>React Apple App</td>
+            <td><a href="https://github.com/Meltem-Karaagac/Apple_app" target="_blank"> Repo details</a></td>
+            <td><a href="https://react-apple-app.herokuapp.com/" target="_blank">App details</a></td>
+            <td><img src="./animation_500_kd7ngokt.gif" alt="react" height="130"></td> 
+        </tr>
+        <tr>
+            <td>React Responsive App</td>
+            <td><a href="https://github.com/Meltem-Karaagac/React_Responsive_Project" target="_blank">Repo details</a></td>
+            <td><a href="https://react-responsive-project.herokuapp.com/" target="_blank">App details</a></td>
+            <td><img src="./animation_500_kd7ngokt.gif" alt="react" height="130"></td> 
+        </tr>
+        <tr>
+            <td>React Movie App</td>
+            <td><a href="https://github.com/Meltem-Karaagac/Movie_App_with_React" target="_blank">Repo details</a></td>
+            <td><a href="https://movie-app-react-123.herokuapp.com/" target="_blank">App details</a></td>
+            <td><img src="./animation_500_kd7ngokt.gif" alt="react" height="130"></td> 
+        </tr>
+        <tr>
+            <td>React Web App</td>
+            <td><a href="https://github.com/Meltem-Karaagac/Web_app_with_React" target="_blank">Repo details</a></td>
+            <td><a href="https://web-app-react-1.herokuapp.com/" target="_blank">App details</a></td>
+            <td><img src="./animation_500_kd7ngokt.gif" alt="react" height="130"></td> 
+        </tr>
+        <tr>
+            <td>React Register App</td>
+            <td><a href="https://github.com/Meltem-Karaagac/React_register_form" target="_blank">Repo details</a></td>
+            <td><a href="https://react-register-form.herokuapp.com/" target="_blank">App details</a></td>
+            <td><img src="./animation_500_kd7ngokt.gif" alt="react" height="130"></td> 
+        </tr>
+    </tbody>
+</table>
+
+
   
 
 

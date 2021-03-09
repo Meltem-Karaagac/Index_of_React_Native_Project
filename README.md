@@ -15,7 +15,7 @@
     <tbody> 
     <tr>
             <td>Images_App</td>
-            <td><a href="https://https://github.com/Meltem-Karaagac/Images_gallery_ReactNative" target="_blank"> Repo details</a></td>
+            <td><a href="https://github.com/Meltem-Karaagac/Images_gallery_ReactNative" target="_blank"> Repo details</a></td>
             <td><img src="img/images.gif" height="500"></td>
             <td><img src='logo_rn.png'  alt="react native"  height="120"></td> 
         </tr><tr>
@@ -33,7 +33,7 @@
         <tr>
             <td>News_App</td>
             <td><a href="https://https://github.com/Meltem-Karaagac/News_page_ReactNative" target="_blank">Repo details</a></td>
-            <td><<img src="img/news_page.gif" height="500"></a></td>
+            <td><img src="img/news_page.gif" height="500"></a></td>
             <td><img src='logo_rn.png'  alt="react native" height="120"></td> 
         </tr>
         <tr>

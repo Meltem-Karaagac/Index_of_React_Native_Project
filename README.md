@@ -27,7 +27,7 @@
         <tr>
             <td>Restaurant_App</td>
             <td><a href="https://github.com/Meltem-Karaagac/Restaurant_page_ReactNative" target="_blank">Repo details</a></td>
-            <td><img src="img/shoppppin.gif" height="500"></a></td>
+            <td><img src="img/restaurant.gif" height="500"></a></td>
             <td><img src='logo_rn.png'alt="react native" height="120"></td> 
         </tr>
         <tr>

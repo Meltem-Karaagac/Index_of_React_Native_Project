@@ -25,6 +25,12 @@
             <td><img src='logo_rn.png'  alt="react native" height="120"></td> 
         </tr>
         <tr>
+            <td>Restaurant_App</td>
+            <td><a href="https://github.com/Meltem-Karaagac/Shopping_cart_ReactNative" target="_blank">Repo details</a></td>
+            <td><img src="img/shoppppin.gif" height="500"></a></td>
+            <td><img src='logo_rn.png'alt="react native" height="120"></td> 
+        </tr>
+        <tr>
             <td>Todo_App</td>
             <td><a href="https://github.com/Meltem-Karaagac/My_todolist_ReactNative" target="_blank"> Repo details</a></td>
             <td><img src="img/TODOS.gif" height="500"></td>

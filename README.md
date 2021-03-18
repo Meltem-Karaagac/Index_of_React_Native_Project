@@ -31,6 +31,12 @@
             <td><img src='logo_rn.png'alt="react native" height="120"></td> 
         </tr>
         <tr>
+            <td>Restaurant_Map_App</td>
+            <td><a href="https://github.com/Meltem-Karaagac/Restaurant_Map_App_ReactNative" target="_blank">Repo details</a></td>
+            <td><img src="https://user-images.githubusercontent.com/67658753/98852890-a510dd80-2458-11eb-99df-e8367d77c80c.gif" height="500"></a></td>
+            <td><img src='logo_rn.png'alt="react native" height="120"></td> 
+        </tr>
+        <tr>
             <td>Todo_App</td>
             <td><a href="https://github.com/Meltem-Karaagac/My_todolist_ReactNative" target="_blank"> Repo details</a></td>
             <td><img src="img/TODOS.gif" height="500"></td>

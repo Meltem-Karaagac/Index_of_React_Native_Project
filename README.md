@@ -33,7 +33,7 @@
         </tr><tr>
             <td>Shopping App</td>
             <td><a href="https://github.com/Meltem-Karaagac/Shopping_project_ReactNative" target="_blank"> Repo details</a></td>
-            <td><img src="hey" height="500"></td>
+            <td><img src="img/shop.gif" height="500"></td>
             <td><img src='logo_rn.png'  alt="react native" height="125"></td> 
         </tr>
         <tr>

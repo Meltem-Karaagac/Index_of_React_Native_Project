@@ -36,25 +36,25 @@
             <td><img src="overview/shopping.gif" height="500"></a></td>
             <td><img src='logo_rn.png'  alt="react native" height="125"></td> 
         </tr>
-        <tr>
+   <tr>
             <td>Restaurant Search App</td>
             <td><a href="https://github.com/Meltem-Karaagac/Restaurant_page_ReactNative" target="_blank">Repo details</a></td>
             <td><img src="img/restaurant.gif" height="500"></a></td>
             <td><img src='logo_rn.png'alt="react native" height="125"></td> 
         </tr>
-         <tr>
+    <tr>
             <td>News App</td>
             <td><a href="https://github.com/Meltem-Karaagac/News_page_ReactNative" target="_blank">Repo details</a></td>
-<!--             <td><img src="img/news_page.gif" height="500"></a></td>
-            <td><img src='logo_rn.png'  alt="react native" height="125"></td>  -->
+            <td><img src="img/news_page.gif" height="500"></a></td>
+            <td><img src='logo_rn.png'  alt="react native" height="125"></td> 
         </tr>
-        <tr>
+    <tr>
             <td>Social Page App</td>
             <td><a href="https://github.com/Meltem-Karaagac/Social_page_ReactNative" target="_blank">Repo details</a></td>
             <td><img src="img/social.gif" height="500"></a></td>
             <td><img src='logo_rn.png'alt="react native" height="125"></td> 
         </tr>
-        <tr>
+    <tr>
             <td>Shopping Cart App</td>
             <td><a href="https://github.com/Meltem-Karaagac/Shopping_cart_ReactNative" target="_blank">Repo details</a></td>
             <td><img src="img/shoping.gif" height="500"></a></td>

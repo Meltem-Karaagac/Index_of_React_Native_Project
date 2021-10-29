@@ -45,8 +45,8 @@
          <tr>
             <td>News App</td>
             <td><a href="https://github.com/Meltem-Karaagac/News_page_ReactNative" target="_blank">Repo details</a></td>
-            <td><img src="img/news_page.gif" height="500"></a></td>
-            <td><img src='logo_rn.png'  alt="react native" height="125"></td> 
+<!--             <td><img src="img/news_page.gif" height="500"></a></td>
+            <td><img src='logo_rn.png'  alt="react native" height="125"></td>  -->
         </tr>
         <tr>
             <td>Social Page App</td>
